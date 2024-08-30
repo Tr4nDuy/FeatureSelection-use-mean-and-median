@@ -2,9 +2,6 @@
 **Topic**: Fusion of statistical importance for feature selection in Deep Neural Network-based Intrusion Detection System
 **Link notebook**: [Drive](https://drive.google.com/drive/folders/1oCgpicLt_kadQy6mlXCpcDrLxNHFxD0F?usp=sharing)
 
-# BofAEG-Automated-Stack-Buffer-Overflow-Exploit
-BofAEG: Automated Stack Buffer Overflow Vulnerability Detection and Exploit Generation Based on Symbolic Execution and Dynamic Analysis
-
 ## Thành viên thực hiện
 1.	Trần Minh Duy
 2.	Nguyễn Hoài Phương
